@@ -82,17 +82,17 @@
     },
 
     {
-      "id": "com.prism.nebula.icons",
-      "name": "Nebula Icons",
-      "bundleIdentifier": "com.prism.nebula.icons",
-      "developerName": "Starfall",
-      "subtitle": "Cosmic neon icons",
-      "localizedDescription": "A vibrant neon icon theme inspired by deep space.",
-      "localizedDescriptionLong": "Nebula Icons brings bold neon colors and cosmic gradients to your home screen while maintaining clarity and balance.",
-      "iconURL": "https://example.com/icons/nebula.png",
-      "bannerURL": "https://example.com/banners/nebula.png",
-      "tintColor": "#8A2BE2",
-      "category": "Icon Themes",
+      "id": "com.prism.pigeon",
+      "name": "Pigeon LS",
+      "bundleIdentifier": "com.prism.pigeon",
+      "developerName": "BrocoDev",
+      "subtitle": "Jailed Port of Dodo",
+      "localizedDescription": "A sleek, customizable lockscreen theme.",
+      "localizedDescriptionLong": "Pigeon brings a sleek, customizable, bottom-aligned lockscreen to your iDevice.",
+      "iconURL": "https://media.discordapp.net/attachments/1333670184686452856/1374997531070697572/IMG_2508.png?ex=694adf7d&is=69498dfd&hm=1f508252d73e5a93f4701f3dc3129f75c491577140355313bd388d4bb0e8fb0e&=&format=webp&quality=lossless&width=700&height=700",
+      "bannerURL": "https://cdn.discordapp.com/attachments/1333670184686452856/1397239327288852491/IMG_0126.png?ex=694ab587&is=69496407&hm=903cd2d4124e29981dc3198ec62d6801fb41094adfc56967e2f8da184d602c91&",
+      "tintColor": "#42f569",
+      "category": "Lockscreen Themes",
       "screenshots": [
         "https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?q=80&w=2000&auto=format&fit=crop"
       ],
@@ -178,4 +178,5 @@
     }
   ]
 }
+
 
