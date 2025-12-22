@@ -1,45 +1,89 @@
 {
-    "repository": {
-      "name": "Prism Presets",
-      "description": "A collection of customization presets and tweaks for Prism.",
-      "version": "1.0.0",
-      "presets": [
+  "name": "Prism Presets",
+  "description": "A collection of customization presets and tweaks for Prism.",
+  "packages": [
+    {
+      "id": "prism.ecliptic",
+      "name": "Ecliptic",
+      "bundleIdentifier": "prism.ecliptic",
+      "developerName": "Prism",
+      "subtitle": "Clean and minimalistic theme pack",
+      "localizedDescription": "A clean and minimalistic theme pack. Exclusive to Prism.",
+      "localizedDescriptionLong": "Ecliptic is a clean and minimalistic theme pack designed exclusively for Prism, combining sleek visuals with cohesive customization options.",
+      "iconURL": "https://example.com/icons/icon.png",
+      "bannerURL": "https://example.com/banners/banner.png",
+      "tintColor": "#1E90FF",
+      "category": "Themes",
+      "screenshots": [],
+      "versions": [
         {
-          "name": "Ecliptic",
-          "description": "A clean and minimalistic theme pack. Exclusive to Prism.",
-          "icon": "https://example.com/icons/icon.png",
-          "banner": "https://example.com/banners/banner.png",
-          "accentColor": "#1E90FF",
-          "category": "Themes",
           "version": "1.2.0",
-          "tweaks": [
-            {
-              "name": "Ecliptic Icons",
-              "description": "Dark, clean icon theme for Ecliptic",
-              "icon": "https://example.com/icons/icon.png",
-              "banner": "https://example.com/banners/banner.png",
-              "accentColor": "#000000",
-              "category": "Icons",
-              "version": "1.0.5",
-              "url": "https://github.com/example/url",
-              "author": "KewlAid",
-              "type": "system"
-            },
-            {
-              "name": "Eliptic Wallpapers",
-              "description": "Clean and glassmorphic wallpapers for Ecliptic",
-              "icon": "https://example.com/icons/icon.png",
-              "banner": "https://example.com/banners/banner.png",
-              "accentColor": "#FFFFFF",
-              "category": "Wallpapers",
-              "version": "2.0.0",
-              "url": "https://github.com/example/url",
-              "author": "BrocoDev",
-              "type": "cosmetic"
-            }
-          ]
+          "date": "2023-01-01T00:00:00Z",
+          "size": 0,
+          "downloadURL": "https://github.com/example/url",
+          "changeLog": "Preset updates and refinements"
+        }
+      ],
+      "badge": "FEATURED"
+    },
+    {
+      "id": "prism.ecliptic.icons",
+      "name": "Ecliptic Icons",
+      "bundleIdentifier": "prism.ecliptic.icons",
+      "developerName": "KewlAid",
+      "subtitle": "Dark, clean icon theme",
+      "localizedDescription": "Dark, clean icon theme for Ecliptic.",
+      "localizedDescriptionLong": "Ecliptic Icons is a dark and clean icon theme designed to perfectly complement the Ecliptic preset.",
+      "iconURL": "https://example.com/icons/icon.png",
+      "bannerURL": "https://example.com/banners/banner.png",
+      "tintColor": "#000000",
+      "category": "Icon Themes",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "1.0.5",
+          "date": "2023-01-01T00:00:00Z",
+          "size": 0,
+          "downloadURL": "https://github.com/example/url",
+          "changeLog": "Icon improvements and fixes"
+        }
+      ]
+    },
+    {
+      "id": "prism.ecliptic.wallpapers",
+      "name": "Ecliptic Wallpapers",
+      "bundleIdentifier": "prism.ecliptic.wallpapers",
+      "developerName": "BrocoDev",
+      "subtitle": "Glassmorphic wallpapers",
+      "localizedDescription": "Clean and glassmorphic wallpapers for Ecliptic.",
+      "localizedDescriptionLong": "A collection of clean, glassmorphic wallpapers designed to enhance the Ecliptic aesthetic.",
+      "iconURL": "https://example.com/icons/icon.png",
+      "bannerURL": "https://example.com/banners/banner.png",
+      "tintColor": "#FFFFFF",
+      "category": "Wallpapers",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "2.0.0",
+          "date": "2023-01-01T00:00:00Z",
+          "size": 0,
+          "downloadURL": "https://github.com/example/url",
+          "changeLog": "New wallpaper collection"
         }
       ]
     }
-  }
-  
+  ],
+  "groups": [
+    {
+      "id": "ecliptic_bundle",
+      "name": "Ecliptic Collection",
+      "description": "Everything included with the Ecliptic preset",
+      "packageIDs": [
+        "prism.ecliptic",
+        "prism.ecliptic.icons",
+        "prism.ecliptic.wallpapers"
+      ],
+      "style": "featured"
+    }
+  ]
+}
