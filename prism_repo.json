@@ -1,89 +1,180 @@
 {
-  "name": "Prism Presets",
-  "description": "A collection of customization presets and tweaks for Prism.",
+  "name": "Prism Presets Repository",
+  "description": "A curated collection of customization presets, themes, wallpapers, and tweaks for Prism.",
   "packages": [
     {
-      "id": "prism.ecliptic",
+      "id": "com.prism.ecliptic",
       "name": "Ecliptic",
-      "bundleIdentifier": "prism.ecliptic",
-      "developerName": "Prism",
-      "subtitle": "Clean and minimalistic theme pack",
-      "localizedDescription": "A clean and minimalistic theme pack. Exclusive to Prism.",
-      "localizedDescriptionLong": "Ecliptic is a clean and minimalistic theme pack designed exclusively for Prism, combining sleek visuals with cohesive customization options.",
-      "iconURL": "https://example.com/icons/icon.png",
-      "bannerURL": "https://example.com/banners/banner.png",
+      "bundleIdentifier": "com.prism.ecliptic",
+      "developerName": "Prism Team",
+      "subtitle": "Clean and minimal aesthetic",
+      "localizedDescription": "Ecliptic is a clean and minimalistic theme pack, designed exclusively for Prism.",
+      "localizedDescriptionLong": "Ecliptic is a clean and minimalistic theme pack designed exclusively for Prism. It focuses on clarity, spacing, and subtle color accents to deliver a modern system-wide experience.",
+      "iconURL": "https://example.com/icons/ecliptic.png",
+      "bannerURL": "https://example.com/banners/ecliptic.png",
       "tintColor": "#1E90FF",
       "category": "Themes",
-      "screenshots": [],
+      "screenshots": [
+        "https://images.unsplash.com/photo-1557683316-973673baf926?q=80&w=2000&auto=format&fit=crop"
+      ],
       "versions": [
         {
           "version": "1.2.0",
-          "date": "2023-01-01T00:00:00Z",
-          "size": 0,
-          "downloadURL": "https://github.com/example/url",
-          "changeLog": "Preset updates and refinements"
+          "date": "2024-01-05T00:00:00Z",
+          "size": 2048000,
+          "downloadURL": "https://github.com/example/ecliptic/releases/download/1.2.0/ecliptic.zip",
+          "changeLog": "Refined spacing, improved contrast, and performance optimizations"
         }
       ],
       "badge": "FEATURED"
     },
+
     {
-      "id": "prism.ecliptic.icons",
+      "id": "com.prism.ecliptic.icons",
       "name": "Ecliptic Icons",
-      "bundleIdentifier": "prism.ecliptic.icons",
+      "bundleIdentifier": "com.prism.ecliptic.icons",
       "developerName": "KewlAid",
-      "subtitle": "Dark, clean icon theme",
-      "localizedDescription": "Dark, clean icon theme for Ecliptic.",
-      "localizedDescriptionLong": "Ecliptic Icons is a dark and clean icon theme designed to perfectly complement the Ecliptic preset.",
-      "iconURL": "https://example.com/icons/icon.png",
-      "bannerURL": "https://example.com/banners/banner.png",
+      "subtitle": "Dark, clean system icons",
+      "localizedDescription": "A dark, clean icon theme designed to complement the Ecliptic aesthetic.",
+      "localizedDescriptionLong": "Ecliptic Icons is a carefully designed dark icon pack that pairs perfectly with the Ecliptic theme, offering consistent shapes, muted tones, and excellent contrast.",
+      "iconURL": "https://example.com/icons/ecliptic-icons.png",
+      "bannerURL": "https://example.com/banners/ecliptic-icons.png",
       "tintColor": "#000000",
       "category": "Icon Themes",
-      "screenshots": [],
+      "screenshots": [
+        "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=2000&auto=format&fit=crop"
+      ],
       "versions": [
         {
           "version": "1.0.5",
-          "date": "2023-01-01T00:00:00Z",
-          "size": 0,
-          "downloadURL": "https://github.com/example/url",
-          "changeLog": "Icon improvements and fixes"
+          "date": "2023-12-18T00:00:00Z",
+          "size": 1024000,
+          "downloadURL": "https://github.com/example/ecliptic-icons/releases/download/1.0.5/icons.zip",
+          "changeLog": "Added new app icons and improved glyph consistency"
         }
       ]
     },
+
     {
-      "id": "prism.ecliptic.wallpapers",
+      "id": "com.prism.ecliptic.wallpapers",
       "name": "Ecliptic Wallpapers",
-      "bundleIdentifier": "prism.ecliptic.wallpapers",
+      "bundleIdentifier": "com.prism.ecliptic.wallpapers",
       "developerName": "BrocoDev",
-      "subtitle": "Glassmorphic wallpapers",
-      "localizedDescription": "Clean and glassmorphic wallpapers for Ecliptic.",
-      "localizedDescriptionLong": "A collection of clean, glassmorphic wallpapers designed to enhance the Ecliptic aesthetic.",
-      "iconURL": "https://example.com/icons/icon.png",
-      "bannerURL": "https://example.com/banners/banner.png",
+      "subtitle": "Glassmorphic & minimal",
+      "localizedDescription": "A collection of clean and glassmorphic wallpapers for Ecliptic.",
+      "localizedDescriptionLong": "Ecliptic Wallpapers delivers a set of high-resolution, glassmorphic and minimal wallpapers crafted to match the Ecliptic theme’s tone and color palette.",
+      "iconURL": "https://example.com/icons/ecliptic-wallpapers.png",
+      "bannerURL": "https://example.com/banners/ecliptic-wallpapers.png",
       "tintColor": "#FFFFFF",
       "category": "Wallpapers",
-      "screenshots": [],
+      "screenshots": [
+        "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=2000&auto=format&fit=crop"
+      ],
       "versions": [
         {
           "version": "2.0.0",
-          "date": "2023-01-01T00:00:00Z",
-          "size": 0,
-          "downloadURL": "https://github.com/example/url",
-          "changeLog": "New wallpaper collection"
+          "date": "2024-01-02T00:00:00Z",
+          "size": 5120000,
+          "downloadURL": "https://github.com/example/ecliptic-wallpapers/releases/download/2.0.0/wallpapers.zip",
+          "changeLog": "Added 4K variants and new blur styles"
+        }
+      ]
+    },
+
+    {
+      "id": "com.prism.nebula.icons",
+      "name": "Nebula Icons",
+      "bundleIdentifier": "com.prism.nebula.icons",
+      "developerName": "Starfall",
+      "subtitle": "Cosmic neon icons",
+      "localizedDescription": "A vibrant neon icon theme inspired by deep space.",
+      "localizedDescriptionLong": "Nebula Icons brings bold neon colors and cosmic gradients to your home screen while maintaining clarity and balance.",
+      "iconURL": "https://example.com/icons/nebula.png",
+      "bannerURL": "https://example.com/banners/nebula.png",
+      "tintColor": "#8A2BE2",
+      "category": "Icon Themes",
+      "screenshots": [
+        "https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?q=80&w=2000&auto=format&fit=crop"
+      ],
+      "versions": [
+        {
+          "version": "1.0.0",
+          "date": "2024-01-10T00:00:00Z",
+          "size": 1536000,
+          "downloadURL": "https://github.com/example/nebula-icons/releases/download/1.0.0/nebula.zip",
+          "changeLog": "Initial release"
+        }
+      ],
+      "badge": "NEW"
+    },
+
+    {
+      "id": "com.prism.aura.wallpapers",
+      "name": "Aura Wallpapers",
+      "bundleIdentifier": "com.prism.aura.wallpapers",
+      "developerName": "Glow Labs",
+      "subtitle": "Soft gradients & light",
+      "localizedDescription": "Soft gradient wallpapers designed to feel light and atmospheric.",
+      "localizedDescriptionLong": "Aura Wallpapers focuses on subtle gradients, soft lighting, and calming color transitions, ideal for minimal setups.",
+      "iconURL": "https://example.com/icons/aura.png",
+      "bannerURL": "https://example.com/banners/aura.png",
+      "tintColor": "#FFB6C1",
+      "category": "Wallpapers",
+      "screenshots": [
+        "https://images.unsplash.com/photo-1519681393784-d120267933ba?q=80&w=2000&auto=format&fit=crop"
+      ],
+      "versions": [
+        {
+          "version": "1.1.0",
+          "date": "2024-01-08T00:00:00Z",
+          "size": 4096000,
+          "downloadURL": "https://github.com/example/aura-wallpapers/releases/download/1.1.0/aura.zip",
+          "changeLog": "Improved color banding and added warm variants"
         }
       ]
     }
   ],
+
   "groups": [
     {
-      "id": "ecliptic_bundle",
-      "name": "Ecliptic Collection",
-      "description": "Everything included with the Ecliptic preset",
+      "id": "featured_group",
+      "name": "Featured",
+      "description": "Editor-picked Prism content",
       "packageIDs": [
-        "prism.ecliptic",
-        "prism.ecliptic.icons",
-        "prism.ecliptic.wallpapers"
+        "com.prism.ecliptic",
+        "com.prism.ecliptic.icons"
       ],
       "style": "featured"
+    },
+    {
+      "id": "icons_group",
+      "name": "Icon Themes",
+      "description": "Refresh your home screen",
+      "packageIDs": [
+        "com.prism.ecliptic.icons",
+        "com.prism.nebula.icons"
+      ],
+      "style": "vertical"
+    },
+    {
+      "id": "wallpapers_group",
+      "name": "Wallpapers",
+      "description": "High-quality backgrounds",
+      "packageIDs": [
+        "com.prism.ecliptic.wallpapers",
+        "com.prism.aura.wallpapers"
+      ],
+      "style": "horizontal"
+    },
+    {
+      "id": "trending_group",
+      "name": "Trending Now",
+      "description": "Popular downloads this week",
+      "packageIDs": [
+        "com.prism.nebula.icons",
+        "com.prism.aura.wallpapers"
+      ],
+      "style": "vertical"
     }
   ]
 }
