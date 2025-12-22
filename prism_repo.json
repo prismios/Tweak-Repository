@@ -6,13 +6,13 @@
       "id": "com.prism.ecliptic.icons",
       "name": "Ecliptic Icons",
       "bundleIdentifier": "com.prism.ecliptic.icons",
-      "developerName": "KewlAid",
+      "developerName": "BrocoDev",
       "subtitle": "Dark, clean system icons",
       "localizedDescription": "A dark, clean icon theme designed to complement the Ecliptic aesthetic.",
       "localizedDescriptionLong": "Ecliptic Icons is a carefully designed dark icon pack that pairs perfectly with the Ecliptic theme, offering consistent shapes, muted tones, and excellent contrast.",
       "iconURL": "https://example.com/icons/ecliptic-icons.png",
       "bannerURL": "https://example.com/banners/ecliptic-icons.png",
-      "tintColor": "#000000",
+      "tintColor": "#6d7b82",
       "category": "Icon Themes",
       "screenshots": [
         "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=2000&auto=format&fit=crop"
@@ -38,7 +38,7 @@
       "localizedDescriptionLong": "Ecliptic Wallpapers delivers a set of high-resolution, glassmorphic and minimal wallpapers crafted to match the Ecliptic theme’s tone and color palette.",
       "iconURL": "https://example.com/icons/ecliptic-wallpapers.png",
       "bannerURL": "https://example.com/banners/ecliptic-wallpapers.png",
-      "tintColor": "#FFFFFF",
+      "tintColor": "#606263",
       "category": "Wallpapers",
       "screenshots": [
         "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=2000&auto=format&fit=crop"
@@ -150,6 +150,7 @@
     }
   ]
 }
+
 
 
 
