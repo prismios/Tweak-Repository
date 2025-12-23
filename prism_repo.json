@@ -22,12 +22,13 @@
           "version": "1.0.5",
           "date": "2023-12-18T00:00:00Z",
           "size": 1024000,
-          "downloadURL": "https://github.com/example/ecliptic-icons/releases/download/1.0.5/icons.zip",
+          "downloadURLs": [
+            "https://github.com/example/ecliptic-icons/releases/download/1.0.5/icons.zip"
+          ],
           "changeLog": "Added new app icons and improved glyph consistency"
         }
       ]
     },
-
     {
       "id": "com.prism.ecliptic.wallpapers",
       "name": "Ecliptic Wallpapers",
@@ -48,12 +49,13 @@
           "version": "2.0.0",
           "date": "2024-01-02T00:00:00Z",
           "size": 5120000,
-          "downloadURL": "https://github.com/example/ecliptic-wallpapers/releases/download/2.0.0/wallpapers.zip",
+          "downloadURLs": [
+            "https://github.com/example/ecliptic-wallpapers/releases/download/2.0.0/wallpapers.zip"
+          ],
           "changeLog": "Added 4K variants and new blur styles"
         }
       ]
     },
-
     {
       "id": "com.prism.pigeon.lockscreen",
       "name": "Pigeon LS",
@@ -74,13 +76,14 @@
           "version": "1.0.0",
           "date": "2024-01-10T00:00:00Z",
           "size": 1536000,
-          "downloadURL": "https://github.com/example/nebula-icons/releases/download/1.0.0/nebula.zip",
+          "downloadURLs": [
+            "https://github.com/example/nebula-icons/releases/download/1.0.0/nebula.zip"
+          ],
           "changeLog": "Initial release"
         }
       ],
       "badge": "NEW"
     },
-
     {
       "id": "com.prism.obsidian.icons",
       "name": "Obsidian Icons",
@@ -101,13 +104,14 @@
           "version": "1.1.0",
           "date": "2024-01-08T00:00:00Z",
           "size": 4096000,
-          "downloadURL": "https://github.com/example/aura-wallpapers/releases/download/1.1.0/aura.zip",
+          "downloadURLs": [
+            "https://github.com/example/aura-wallpapers/releases/download/1.1.0/aura.zip"
+          ],
           "changeLog": "Improved color banding and added warm variants"
         }
       ]
     }
   ],
-
   "groups": [
     {
       "id": "featured_group",
@@ -150,7 +154,3 @@
     }
   ]
 }
-
-
-
-
