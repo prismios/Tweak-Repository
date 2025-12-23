@@ -91,7 +91,7 @@
       "developerName": "kewlaid",
       "subtitle": "Illuminate your Homescreen",
       "localizedDescription": "Soft, polished icons for your homescreen.",
-      "localizedDescriptionLong": "Obsidian Icons focuses on subtle polish, soft lighting, and calming colors, ideal for minimal setups.",
+      "localizedDescriptionLong": "Obsidian Icons focuses on subtle polish, soft lighting, and calming colors. It's ideal for minimalistic setups.",
       "iconURL": "https://cdn.discordapp.com/attachments/1333670184686452856/1375288967569735720/image_1.png?ex=694a9d69&is=69494be9&hm=2c3bd47bdd1884152dce2d8cef882724fa013be249eacb4229759d351e434a15&",
       "bannerURL": "https://cdn.discordapp.com/attachments/1333669335004090473/1352623792916004865/image.png?ex=694a8e92&is=69493d12&hm=b364da50706089e291b595408e656813b650ccaadeb1df25179466d459b4d147&",
       "tintColor": "##8a42f5",
@@ -105,7 +105,7 @@
           "date": "2024-01-08T00:00:00Z",
           "size": 4096000,
           "downloadURLs": [
-            "https://github.com/example/aura-wallpapers/releases/download/1.1.0/aura.zip"
+            "https://cdn.discordapp.com/attachments/1133006994261938336/1452802044527382609/obsidian_1.zip?ex=694b22d7&is=6949d157&hm=46e982a89906abe00066612f594d1026b30210e52c812931c22e30f4e6e522b7&"
           ],
           "changeLog": "Improved color banding and added warm variants"
         }
@@ -154,3 +154,4 @@
     }
   ]
 }
+
