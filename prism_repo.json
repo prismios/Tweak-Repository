@@ -10,8 +10,8 @@
       "subtitle": "Dark, clean system icons",
       "localizedDescription": "A dark, clean icon theme designed to complement the Ecliptic aesthetic.",
       "localizedDescriptionLong": "Ecliptic Icons is a carefully designed dark icon pack that pairs perfectly with the Ecliptic theme, offering consistent shapes, muted tones, and excellent contrast.",
-      "iconURL": "https://example.com/icons/ecliptic-icons.png",
-      "bannerURL": "https://example.com/banners/ecliptic-icons.png",
+      "iconURL": "https://cdn.discordapp.com/attachments/1333670184686452856/1335526679980015636/IMG_5404.png?ex=694afae5&is=6949a965&hm=0173e21bd0590aae25343019c795e2830e2c6614ad268bcb058fc9d0954fc907&",
+      "bannerURL": "https://cdn.discordapp.com/attachments/1333670184686452856/1375385301073268807/IMG_4235.png?ex=694af721&is=6949a5a1&hm=87bdae2a7e739f167da4c34514031d62de8be00169afe17e71b0cc1cd9b4281a&",
       "tintColor": "#6d7b82",
       "category": "Icon Themes",
       "screenshots": [
@@ -37,8 +37,8 @@
       "subtitle": "Glassmorphic & minimal",
       "localizedDescription": "A collection of clean and glassmorphic wallpapers for Ecliptic.",
       "localizedDescriptionLong": "Ecliptic Wallpapers delivers a set of high-resolution, glassmorphic and minimal wallpapers crafted to match the Ecliptic theme’s tone and color palette.",
-      "iconURL": "https://example.com/icons/ecliptic-wallpapers.png",
-      "bannerURL": "https://example.com/banners/ecliptic-wallpapers.png",
+      "iconURL": "https://cdn.discordapp.com/attachments/1333670184686452856/1335526679980015636/IMG_5404.png?ex=694afae5&is=6949a965&hm=0173e21bd0590aae25343019c795e2830e2c6614ad268bcb058fc9d0954fc907&",
+      "bannerURL": "https://cdn.discordapp.com/attachments/1333670184686452856/1375385301073268807/IMG_4235.png?ex=694af721&is=6949a5a1&hm=87bdae2a7e739f167da4c34514031d62de8be00169afe17e71b0cc1cd9b4281a&",
       "tintColor": "#606263",
       "category": "Wallpapers",
       "screenshots": [
@@ -154,4 +154,5 @@
     }
   ]
 }
+
 
