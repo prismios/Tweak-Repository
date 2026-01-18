@@ -105,7 +105,7 @@
           "date": "2024-01-08T00:00:00Z",
           "size": 4096000,
           "downloadURLs": [
-            "https://github.com/prismios/Tweak-Repository/blob/main/PrismRepoAssets/obsidian.zip"
+            "https://github.com/prismios/Tweak-Repository/raw/refs/heads/main/PrismRepoAssets/obsidian.zip"
           ],
           "changeLog": "Improved color banding and added warm variants"
         }
@@ -154,6 +154,7 @@
     }
   ]
 }
+
 
 
 
