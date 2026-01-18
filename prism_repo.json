@@ -85,7 +85,7 @@
       ]
     },
     {
-      "id": "com.prism.DockPlayer.tweaks",
+      "id": "com.prism.dockplayer.tweaks",
       "name": "DockPlayer",
       "bundleIdentifier": "com.prism.DockPlayer.tweaks",
       "developerName": "BrocoDev",
@@ -116,7 +116,7 @@
       "name": "NotiSound",
       "bundleIdentifier": "com.prism.notisound.tweaks",
       "developerName": "BrocoDev",
-      "subtitle": "Customize your notification system sound.",
+      "subtitle": "Customize your notification sounds.",
       "localizedDescription": "An easy and polished way to change your sounds.",
       "localizedDescriptionLong": "NotiSound gives you an easy way to change the sounds and audio behaviour of your system.",
       "iconURL": "https://raw.githubusercontent.com/prismios/Tweak-Repository/a52ed9ff733437c28b6c01ed124096066572d212/PrismRepoAssets/NotiSound/Icon.png",
@@ -191,6 +191,7 @@
     }
   ]
 }
+
 
 
 
