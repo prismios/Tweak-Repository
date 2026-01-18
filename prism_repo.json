@@ -87,7 +87,7 @@
     {
       "id": "com.prism.dockplayer.tweaks",
       "name": "DockPlayer",
-      "bundleIdentifier": "com.prism.DockPlayer.tweaks",
+      "bundleIdentifier": "com.prism.dockplayer.tweaks",
       "developerName": "BrocoDev",
       "subtitle": "Control your music from your dock.",
       "localizedDescription": "An easy and polished way to view your music from the homescreen.",
@@ -191,6 +191,7 @@
     }
   ]
 }
+
 
 
 
